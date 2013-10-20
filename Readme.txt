@@ -7,3 +7,4 @@ manque pour que nos modifs fonctionnent. Il va falloir suivre un protocole bien 
 Lorsqu'on fais un commit, on devrai absolument mettre des commentaires pour savoir ce qu'on a 
 changé.
 
+test avec lina
