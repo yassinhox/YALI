@@ -1,0 +1,19 @@
+package test;
+
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.text.*;
+import java.util.*;
+
+public class Test 
+{
+
+	public static void main(args[])
+	{
+		System.out.println("hello main");
+	}
+		
+
+
+}
