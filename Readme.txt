@@ -1,4 +1,4 @@
-Dans ce fichiee figurent les règles d'utilisation du projet :
+Dans ce fichier figurent les règles d'utilisation du projet :
 
 Dans chaque dossier créé, on aura un fichier readme.txt dans lequel on va écrire les modifications
 qu'on a apporté dans le dossier courant. Il va falloir mettre ce qu'on a mis, pourquoi, et ce qu'il
